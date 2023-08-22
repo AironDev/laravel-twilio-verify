@@ -1,5 +1,5 @@
 {
-    "name": "codebar-ag/laravel-twilio-verify",
+    "name": "airondev/laravel-twilio-verify",
     "description": "Twilio Verify integration with Laravel",
     "keywords": [
         "laravel",
